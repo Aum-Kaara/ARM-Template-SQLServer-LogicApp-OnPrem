@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_sql_name": {
+            "value": null
+        },
+        "connections_sql_1_name": {
+            "value": null
+        },
+        "connections_sql_2_name": {
+            "value": null
+        },
+        "virtualMachines_vm_sql_name": {
+            "value": null
+        },
+        "workflows_fabrikam_logicapp_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_sql304_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_sql_ip_name": {
+            "value": null
+        },
+        "storageAccounts_fabrikamrgdiag_name": {
+            "value": null
+        },
+        "connectionGateways_on_prem_gateway_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_sql_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_fabrikam_rg_vnet_name": {
+            "value": null
+        },
+        "sqlVirtualMachines_vm_sql_name": {
+            "value": null
+        }
+    }
+}
